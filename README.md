@@ -8,8 +8,3 @@ Este é um projeto desenvolvido junto aos gêmeos do 'Dev em Dobro', acompanhei 
 - Inclui novos tipos, pois o original não abarcava todos.
 
 Ainda estou incluindo pokémons, como estou bem no inicio dos estudo pretendo apenas completar a lista por agora, mas futuramente fazer alterações para deixar este projeto mais completo.
-
-# Autores
-
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Hamilton Gonçalves de Souza Júnior</sub>](https://github.com/Ha1000J) | 
-| :---: | 
